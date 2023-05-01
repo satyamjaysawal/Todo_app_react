@@ -3,7 +3,7 @@ The React Todo app is a small application built using the React library that all
 Todo list app project using react hooks
 Here is the screenshot of the project.
 
-<img width="457" alt="image" src="![image](https://user-images.githubusercontent.com/108862706/235449709-60c9d571-5c90-4904-94ec-04cb3701063c.png)">
+<img width="457" alt="image" src="[image](https://user-images.githubusercontent.com/108862706/235449709-60c9d571-5c90-4904-94ec-04cb3701063c.png)">
 
 <h3>Functionalities:</h3>
 <ol>
